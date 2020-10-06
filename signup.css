@@ -1,0 +1,17 @@
+     .row_style{
+    margin-top:80px;
+    margin-left:250px;
+    background-position: center;
+    text-height: font-size ;
+   }
+
+footer{
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.container{
+    padding: 15px;
+}
